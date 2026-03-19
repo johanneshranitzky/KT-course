@@ -71,6 +71,11 @@ coverage.xml
 !**/submissions/answers.docx
 !**/submissions/canvas_export.json
 !**/submissions/palette.json
+!**/submissions/*.py
+!**/submissions/*.ipynb
+!**/submissions/*.png
+!**/submissions/*.jpg
+!**/submissions/*.pdf
 
 # Instructor key (nicht ins Studenten-Repo exportieren)
 .instructor_key
