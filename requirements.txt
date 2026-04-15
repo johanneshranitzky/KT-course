@@ -112,8 +112,8 @@ python-multipart==0.0.22
 python-socketio==5.16.1
 pytokens==0.4.1
 PyWavelets==1.8.0
-pywinpty==3.0.3
 PyYAML==6.0.3
+pywinpty==3.0.3; platform_system == "Windows"
 pyzmq==27.1.0
 referencing==0.37.0
 requests==2.32.5
