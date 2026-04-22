@@ -1,0 +1,51 @@
+Analyze the file:  /Users/johannes/Library/CloudStorage/OneDrive-FHJOANNEUM/Kommunikationstechnologien/KT-course/KT-course/lab_suite/labs/01_04_Datenkompression/sampletext.txt
+Total number of words:     45
+Number of different words: 41
+
+-------Table of words:-----------------------------------------
+                           dass | cnt=  2    p=0.044   H=4.492 bit/word   H_av=0.200 bit/word
+                            nur | cnt=  2    p=0.044   H=4.492 bit/word   H_av=0.200 bit/word
+                     Buchstaben | cnt=  2    p=0.044   H=4.492 bit/word   H_av=0.200 bit/word
+                            die | cnt=  2    p=0.044   H=4.492 bit/word   H_av=0.200 bit/word
+                          Heute | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           habe | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            ich | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           mich | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            mit | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+            Informationstheorie | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                    beschäftigt | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                          Dabei | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            ist | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                    interessant | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            ein | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           Text | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                          nicht | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            aus | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                        besteht | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                        sondern | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           auch | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                     Häufigkeit | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            der | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                        Zeichen | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           eine | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                       wichtige | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                          Rolle | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         spielt | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         Manche | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         kommen | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           sehr | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            oft | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            vor | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         andere | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         selten | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                          Genau | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                         daraus | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                           kann | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                            man | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                       Entropie | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+                      berechnen | cnt=  1    p=0.022   H=5.492 bit/word   H_av=0.122 bit/word
+-----------------------------------------------------------------
+
+Average Entropy H = 5.314 bit/word
+Total Entropy of 45 words H=239.133 bit (30 bytes)
+Size of text file: 306 bytes

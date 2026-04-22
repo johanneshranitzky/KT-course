@@ -1,0 +1,48 @@
+Analyze the file:  /Users/johannes/Library/CloudStorage/OneDrive-FHJOANNEUM/Kommunikationstechnologien/KT-course/KT-course/lab_suite/labs/01_02_Informationstheorie/sampletext.txt
+
+-----File Contents:---------------------------------------------------
+Heute habe ich mich mit Informationstheorie beschäftigt. Dabei ist interessant, dass ein Text nicht nur aus Buchstaben besteht, sondern dass auch die Häufigkeit der Zeichen eine wichtige Rolle spielt. Manche Buchstaben kommen sehr oft vor, andere nur selten. Genau daraus kann man die Entropie berechnen.
+Number of characters: 304
+Character Dictionary: {'H': 2, 'e': 39, 'u': 10, 't': 21, ' ': 44, 'h': 15, 'a': 17, 'b': 7, 'i': 21, 'c': 11, 'm': 6, 'I': 1, 'n': 25, 'f': 4, 'o': 9, 'r': 13, 's': 18, 'ä': 2, 'g': 3, '.': 4, 'D': 1, ',': 3, 'd': 8, 'T': 1, 'x': 1, 'B': 2, 'k': 3, 'Z': 1, 'w': 1, 'R': 1, 'l': 4, 'p': 2, 'M': 1, 'v': 1, 'G': 1, 'E': 1}
+
+-------Table of characters:----------------
+       | cnt= 44    p=0.145   H=2.788 bit/char  H_av=0.404 bit/char
+ e     | cnt= 39    p=0.128   H=2.963 bit/char  H_av=0.380 bit/char
+ n     | cnt= 25    p=0.082   H=3.604 bit/char  H_av=0.296 bit/char
+ t     | cnt= 21    p=0.069   H=3.856 bit/char  H_av=0.266 bit/char
+ i     | cnt= 21    p=0.069   H=3.856 bit/char  H_av=0.266 bit/char
+ s     | cnt= 18    p=0.059   H=4.078 bit/char  H_av=0.241 bit/char
+ a     | cnt= 17    p=0.056   H=4.160 bit/char  H_av=0.233 bit/char
+ h     | cnt= 15    p=0.049   H=4.341 bit/char  H_av=0.214 bit/char
+ r     | cnt= 13    p=0.043   H=4.547 bit/char  H_av=0.194 bit/char
+ c     | cnt= 11    p=0.036   H=4.788 bit/char  H_av=0.173 bit/char
+ u     | cnt= 10    p=0.033   H=4.926 bit/char  H_av=0.162 bit/char
+ o     | cnt=  9    p=0.030   H=5.078 bit/char  H_av=0.150 bit/char
+ d     | cnt=  8    p=0.026   H=5.248 bit/char  H_av=0.138 bit/char
+ b     | cnt=  7    p=0.023   H=5.441 bit/char  H_av=0.125 bit/char
+ m     | cnt=  6    p=0.020   H=5.663 bit/char  H_av=0.112 bit/char
+ f     | cnt=  4    p=0.013   H=6.248 bit/char  H_av=0.082 bit/char
+ .     | cnt=  4    p=0.013   H=6.248 bit/char  H_av=0.082 bit/char
+ l     | cnt=  4    p=0.013   H=6.248 bit/char  H_av=0.082 bit/char
+ g     | cnt=  3    p=0.010   H=6.663 bit/char  H_av=0.066 bit/char
+ ,     | cnt=  3    p=0.010   H=6.663 bit/char  H_av=0.066 bit/char
+ k     | cnt=  3    p=0.010   H=6.663 bit/char  H_av=0.066 bit/char
+ H     | cnt=  2    p=0.007   H=7.248 bit/char  H_av=0.048 bit/char
+ ä     | cnt=  2    p=0.007   H=7.248 bit/char  H_av=0.048 bit/char
+ B     | cnt=  2    p=0.007   H=7.248 bit/char  H_av=0.048 bit/char
+ p     | cnt=  2    p=0.007   H=7.248 bit/char  H_av=0.048 bit/char
+ I     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ D     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ T     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ x     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ Z     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ w     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ R     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ M     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ v     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ G     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+ E     | cnt=  1    p=0.003   H=8.248 bit/char  H_av=0.027 bit/char
+-------------------------------------------
+
+Average Entropy H = 4.289 bit/char
+Total Entropy of 304 characters H=1303.97 bit = 163.00 byte

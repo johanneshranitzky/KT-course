@@ -1,0 +1,4 @@
+Enter the string to compute Huffman Code Tree: ---------------------------------------------------------
+Dictionary of Characters with char frequency:       {}
+Dictionary converted into a list:                   dict_items([])
+List of characters sorted to descending frequency:  []
